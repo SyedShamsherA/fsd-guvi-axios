@@ -1,0 +1,16 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+}
+
+p{
+    color: azure;
+}
+
+.username{
+    font-size: 25px;
+    font-weight: 500;
+}
